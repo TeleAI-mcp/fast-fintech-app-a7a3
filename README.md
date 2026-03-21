@@ -1,2 +1,3 @@
-# fast-fintech-app-a7a3
+# Fast Fintech App A7A3
+
 A financial technology application for modern development workflows.
